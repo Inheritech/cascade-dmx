@@ -8,6 +8,11 @@ The code is written specifically for my use case using ESP-IDF and its toolchain
 
 You should be able to simply open this with VS Code and the espressif extension and be good to go.
 
+## Thanks
+
+Just want to thank GitHub Copilot for helping write some of the socket code (Saved me the trip to Stack Overflow).
+Also the creator of FastLED and the awesome human that ported it to IDF so I don't have to write an awful long component manifest.
+
 ## LICENSE
 
 Just like the repositories I used for making this possible, this repository uses the MIT License
