@@ -13,6 +13,10 @@ You should be able to simply open this with VS Code and the espressif extension 
 Just want to thank GitHub Copilot for helping write some of the socket code (Saved me the trip to Stack Overflow).
 Also the creator of FastLED and the awesome human that ported it to IDF so I don't have to write an awful long component manifest.
 
+## Why Cascade?
+
+That's just the name I gave my personal lighting/VJing project and all the other code (Like the propietary implementation) I wrote for it
+
 ## LICENSE
 
 Just like the repositories I used for making this possible, this repository uses the MIT License
